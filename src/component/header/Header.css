@@ -1,0 +1,35 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 12vh;
+  background-color: #C3AA91;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+header nav {
+  display: flex;
+  padding: 5px;
+  column-gap: 30%;
+  font-size: 20px;
+  font-family: "Segoe UI Symbol", serif;
+  color: #7A6049;
+}
+header img {
+  max-width: 75px;
+}
+header button {
+  width: 150px;
+  background-color: #7A6049;
+  border: none;
+  padding: 8px;
+  font-size: 20px;
+  font-family: "Impact", serif;
+  color: #C3AA91;
+  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+/*# sourceMappingURL=Header.css.map */

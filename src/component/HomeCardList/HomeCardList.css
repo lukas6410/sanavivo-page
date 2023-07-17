@@ -1,10 +1,11 @@
-.rootlist{
+.rootlist {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
   grid-column-gap: 120px;
   grid-row-gap: 50px;
-
   height: 85vh;
   margin-top: 20px;
 }
+
+/*# sourceMappingURL=HomeCardList.css.map */
