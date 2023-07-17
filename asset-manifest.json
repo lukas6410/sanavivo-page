@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/lukas6410.github.io/sanavivo-page/static/css/main.1c645455.css",
+    "main.js": "/lukas6410.github.io/sanavivo-page/static/js/main.84ee5e1a.js",
+    "static/js/787.1e244ba9.chunk.js": "/lukas6410.github.io/sanavivo-page/static/js/787.1e244ba9.chunk.js",
+    "static/media/testitem.jpg": "/lukas6410.github.io/sanavivo-page/static/media/testitem.5554f68959f17aa238bb.jpg",
+    "static/media/impact.ttf": "/lukas6410.github.io/sanavivo-page/static/media/impact.0294f8285a2493417c09.ttf",
+    "static/media/SV_texte_noir_beige.png": "/lukas6410.github.io/sanavivo-page/static/media/SV_texte_noir_beige.010a932fa5325ca78d8a.png",
+    "index.html": "/lukas6410.github.io/sanavivo-page/index.html",
+    "main.1c645455.css.map": "/lukas6410.github.io/sanavivo-page/static/css/main.1c645455.css.map",
+    "main.84ee5e1a.js.map": "/lukas6410.github.io/sanavivo-page/static/js/main.84ee5e1a.js.map",
+    "787.1e244ba9.chunk.js.map": "/lukas6410.github.io/sanavivo-page/static/js/787.1e244ba9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c645455.css",
+    "static/js/main.84ee5e1a.js"
+  ]
+}
